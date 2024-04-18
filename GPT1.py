@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 api_url = 'https://api.openai.com/v1/completions'
 
 # API Key
-api_key = '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'
+api_key = 'Enter your api key here'
 
 headers = {
     'Content-Type': 'application/json',
